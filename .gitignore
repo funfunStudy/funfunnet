@@ -2,10 +2,8 @@
 ###################
 *.com
 *.class
-*.dll
 *.exe
 *.o
-*.so
 
 # Packages #
 ############
@@ -52,7 +50,6 @@ out
 .idea
 *.ipr
 *.iws
-*.iml
 atlassian-ide-plugin.xml
 
 # Eclipse specific files/directories
@@ -65,10 +62,17 @@ atlassian-ide-plugin.xml
 .nbattrs
 
 # for Play Application
-logs
-project/project
-project/target
-target
-tmp
-dist
+bin/
+/db
+.eclipse
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
 .cache
