@@ -15,10 +15,10 @@
 ### Commit
 - (존재한다면) 관련 이슈를 referencing 한다.
 - 제목과 본문을 빈 행으로 구분한다. 
-- 형식 => {이슈번호} : {수정내용}
+- 형식 => [#이슈번호] 커밋제목
 
 ```
-#1 : Create Skeleton Project 
+[#1] Create Skeleton Project 
 
 - xxxx xxx
 - xxx xxxx
