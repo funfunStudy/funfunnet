@@ -10,3 +10,5 @@ sbt run
 ```
 - url 확인 : localhost:9000
 
+## Contribution Guide
+[How to Contribute 링크](https://github.com/funfunStudy/funfunnet/wiki/How-to-Contribute)
